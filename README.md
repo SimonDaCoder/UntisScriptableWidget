@@ -47,7 +47,7 @@ const SCHOOL = "Gym Kronshagen";
 1. Go to your **iOS Home Screen**.  
 2. Enter **Jiggle Mode** → tap **+** → search for Scriptable → **Add Widget**.  
 3. Tap on the widget → select your `UntisNextLessons` script.  
-4. Resize widget to your preferred size (medium recommended).  
+4. Resize widget to your preferred size (medium (1x2) recommended).  
 
 ## Configuration
 
