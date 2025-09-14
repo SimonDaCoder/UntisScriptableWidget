@@ -1,7 +1,7 @@
-const SERVER = "kephiso.webuntis.com";
-const SCHOOL = "Gym Kronshagen";
-const USERNAME = "RitSim"; // Nutzername
-const PASSWORD = "123ABC456"; // Passwort
+const SERVER = "www.webuntis.com";
+const SCHOOL = "School Name";
+const USERNAME = "UserName"; // username
+const PASSWORD = "PassWort"; // password
 const CLIENT = "ScriptableUntisWidgetNowNext";
 const REFRESH_MINUTES = 5;
 
